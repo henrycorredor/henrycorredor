@@ -1,11 +1,17 @@
+Hi everyone!
 ¡Buenas!
 
 Aquí Henry Corredor.
 
-En este momento estoy desarrollando el proyecto "Saheya Contable":
-- WebApp para contabilidad de pequeñas cooperativas y contabilidad descentralizada.
+Actual status:
+/*/ developing "Saheya Contable"
+- WebApp for small companies and decentralized accounting.
 - Node.js + MySql
-- ¡ESPAÑOL!
+- ¡ESPAÑOL! Spanish is used in this account.
+
+/*/ Learning Javascript
+- Focus mainly in NodeJS
+- Next steps in getting deeper in React
 
 <!---
 henrycorredor/henrycorredor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
