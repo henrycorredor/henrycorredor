@@ -1,19 +1,23 @@
-Hi everyone!
-¡Buenas!
+### ¡Buenas! / Saluton! / Hi there! 👋
 
-Aquí Henry Corredor.
+# Henry Corredor
 
-Actual status:
-/*/ developing "Saheya Contable"
-- WebApp for small companies and decentralized accounting.
-- Node.js + MySql
-- ¡ESPAÑOL! Spanish is used in this account.
+**From Colombia 🇨🇴, resident in China 🇨🇳**
 
-/*/ Learning Javascript
-- Focus mainly in NodeJS
-- Next steps in getting deeper in React
+Actually working as Frontend developer in a FinTech based in China, work stack:
+- React - UMIJS
+- Ant Design
+- Lanhu app
+- Wordpress (custom templates and plugins development)
 
-<!---
-henrycorredor/henrycorredor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Freelance and personal projects / getting deeper and learning stack:
+- Astro
+- Ruby on Rails
+- Wechat Miniapps
+- NodeJS
+
+Other:
+- Spanish native, English and Chinese fluent, Esperanto basic
+- Learning Japanese.
+
+[Find me in X](http://x.com/gosunkugi "Find me in X")
